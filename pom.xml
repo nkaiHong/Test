@@ -5,6 +5,6 @@
   <groupId>org.fkjava.test</groupId>
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>我只是玩一玩</name>	
+  <name>我只是玩一玩</name>		
   <!-- 我只是玩一玩-->
 </project>	
